@@ -148,6 +148,7 @@ The purpose of this repository is to document my practical networking skills, co
 
 ## Repository Structure
 
+```text
 CCNA-Networking-Labs/
 │
 ├── 01-Network-Fundamentals/
